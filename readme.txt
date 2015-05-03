@@ -18,6 +18,8 @@ Major Features:
 3. Vertical & Horizontal Scrolling facilities.
 4. Plugin Option Panel
 
+Plugin Demo: http://www.codycave.com/Plugins/endless-scroll/
+
 Credits:
 * enscroll jQuery Plugin (http://enscrollplugin.com/)
 
