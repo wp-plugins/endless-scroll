@@ -12,11 +12,11 @@ A Content Scrolling Fantasy.
 
 Endless Scroll is a content scroll plugins. Which means you can have a large content within a small height and can read by scrolling it. With custom scroll bar it looks good.
 
-Major Features:
-1. Simple Shortcode
-2. Custom Scroll Bar
-3. Vertical & Horizontal Scrolling facilities.
-4. Plugin Option Panel
+Major Features:<br>
+1. Simple Shortcode.<br>
+2. Custom Scroll Bar.<br>
+3. Vertical & Horizontal Scrolling facilities.<br>
+4. Plugin Option Panel.<br>
 
 Plugin Demo: http://www.codycave.com/Plugins/endless-scroll/
 
